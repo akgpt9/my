@@ -1,2 +1,2 @@
 # my
-git commands demo
+git commands to show demo
